@@ -3,7 +3,6 @@
 # Técnicas Y Aplicaciones de la Percepción Remota: Cambio Climático-Riesgos y Desastres
 
 
-<p><center> <img src="resources/example.png" width="1000"/> </p></center>
 
 ***
 
