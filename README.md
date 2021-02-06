@@ -1,4 +1,4 @@
-<p><center> <img src="img/header.png" width="1000"/> </p></center>
+<p><center> <img src="Img/logo_heat.png" width="1000"/> </p></center>
 
 # Técnicas Y Aplicaciones de la Percepción Remota: Cambio Climático-Riesgos y Desastres
 
