@@ -12,5 +12,6 @@ En este cuaderno vamos a explorar parte del contenido de la **Unidad II. Integra
 
 ## ¿Como funciona?
 1. Puede descargar el cuaderno de Jupyter Notebook y utilizar lso recurso de su PC. 
-2. Otra opción alternativa para su uso en **Google Colab**. Como entorno de computación en la nube para cuadernos de Jupyter, la cual aprovecha los recursos técnicos externos, permitiendo que esta herramienta se pueda aplicar en dispositivos con una potencia de computo más limitada, incluidos dispositivos móviles como teléfonos y tabletas, en áreas con escaso ancho de banda. Para ello puede acceder a esta versión directamente haciendo clic en el icono de abajo.
+2. Otra opción alternativa para su uso en [**Google Colab**]( https://colab.research.google.com). Como entorno de computación en la nube para cuadernos de Jupyter, la cual aprovecha los recursos técnicos externos, permitiendo que esta herramienta se pueda aplicar en dispositivos con una potencia de computo más limitada, incluidos dispositivos móviles como teléfonos y tabletas, en áreas con escaso ancho de banda. Para ello puede acceder a esta versión directamente haciendo clic en el icono de abajo.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alexanderariza/vhertel-flood-extent-mapping-ES/blob/main/colab/_flood-extent-mapping-colab-ES.ipynb)
