@@ -29,7 +29,7 @@ Columna 7: La séptima columna son los mismos datos con el ciclo estacional elim
 Los datos de dióxido de carbono fueron recopilados y publicados por la Institución de Oceanografía Scripps de la Universidad de California bajo la supervisión de Charles David Keeling con el apoyo del Departamento de Energía de EE. UU., Redes de la Tierra y la Fundación Nacional de Ciencias.
 
 ## Preguntas a resolver:
-<i><u>¿Cómo han cambiado los niveles de dióxido de carbono atmosférico en los últimos sesenta años? 
-¿Cómo cambian las concentraciones de dióxido de carbono estacionalmente? 
-¿Qué crees que causa este ciclo estacional? 
-¿Cuándo superarán los niveles de dióxido de carbono las 450 partes por millón?
+<i>¿Cómo han cambiado los niveles de dióxido de carbono atmosférico en los últimos sesenta años?<br> 
+¿Cómo cambian las concentraciones de dióxido de carbono estacionalmente?<br> 
+¿Qué crees que causa este ciclo estacional?<br> 
+¿Cuándo superarán los niveles de dióxido de carbono las 450 partes por millón?<br>
