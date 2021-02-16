@@ -35,8 +35,5 @@ Los datos de dióxido de carbono fueron recopilados y publicados por la Instituc
 ¿Qué crees que causa este ciclo estacional?<br> 
 ¿Cuándo superarán los niveles de dióxido de carbono las 450 ppm partes por millón?<br></i>
   
-## Licencia
-
-
-https://camo.githubusercontent.com/c253d2829f9392b505182d44eb60e84009fcf184/68747470733a2f2f7261772e6769746875622e636f6d2f6e61666572676f2f6d616e75616c2d6c697672652d616e696d6163616f32642f67682d70616765732f696d672f696e74726f647563616f2f6372656174697665636f6d6d6f6e735f63632d62792d73612e706e67
+[![License: Creative Commons Zero v1.0 Universal](https://lh3.googleusercontent.com/proxy/1Lf-mS_lKbHvQvL9Y1e7Oq9f2TVJfIcqzAVYPpWozaSvnfGDKto6_H1XpT7Jw83Z3FGZQ_cWlAP-Y7kw7YZ_WciVl7irUctxti5RuTW1x3-jB1P0N8FXhYWsGLiz02Q)](https://creativecommons.org/publicdomain/zero/1.0/)
 
