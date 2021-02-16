@@ -19,6 +19,7 @@ El registro de dióxido de carbono del Observatorio Mauna Loa, conocido como la 
 
 ## Contenido
 Este conjunto de datos incluye una observación mensual de las concentraciones atmosféricas de dióxido de carbono (o CO2) del Observatorio Mauna Loa (Hawái) a una latitud de 19,5, una longitud de -155,6 y una elevación de 3397 metros.
+Adicionalmente, trabajaremos con una compilación más reciente elaborada por **Berkeley Earth** , afiliado al Laboratorio Nacional Lawrence Berkeley. El estudio de temperatura de la superficie terrestre de Berkeley combina 1.600 millones de informes de temperatura de 16 archivos preexistentes. Está muy bien empaquetado y permite dividirlo en subconjuntos interesantes (por ejemplo, por país). Publican los datos de origen y el código de las transformaciones que aplicaron. También utilizan métodos que permiten incluir observaciones meteorológicas de series de tiempo más cortas, lo que significa que se deben desechar menos observaciones.
 
 Columnas 1-3: proporcione la fecha en los siguientes formatos redundantes: año, mes y fecha decimal
 Columna 4: Concentraciones mensuales de CO2 en partes por millón (ppm) medidas en la escala de calibración 08A y recolectadas a las 24:00 horas del día quince de cada mes.
@@ -34,26 +35,8 @@ Los datos de dióxido de carbono fueron recopilados y publicados por la Instituc
 ¿Qué crees que causa este ciclo estacional?<br> 
 ¿Cuándo superarán los niveles de dióxido de carbono las 450 ppm partes por millón?<br></i>
   
-## 2. Datos de temperatura de la superficie terrestre
-###Explorando las temperaturas globales desde 1750:
-Existe una variedad de organizaciones que recopilan datos de tendencias climáticas. Los tres conjuntos de datos de temperatura terrestre y oceánica más citados son MLOST de NOAA, GISTEMP de NASA y HadCrut del Reino Unido.
-Par esta práctica, trabajaremos con una compilación más reciente elaborada por **Berkeley Earth** , afiliado al Laboratorio Nacional Lawrence Berkeley. El estudio de temperatura de la superficie terrestre de Berkeley combina 1.600 millones de informes de temperatura de 16 archivos preexistentes. Está muy bien empaquetado y permite dividirlo en subconjuntos interesantes (por ejemplo, por país). Publican los datos de origen y el código de las transformaciones que aplicaron. También utilizan métodos que permiten incluir observaciones meteorológicas de series de tiempo más cortas, lo que significa que se deben desechar menos observaciones.
-Dentro del conjunto de datos que veremos están:
-Temperaturas globales terrestres y oceánicas y terrestres ( GlobalTemperatures.csv ):
-•	Fecha: comienza en 1750 para la temperatura promedio de la tierra y 1850 para las temperaturas máxima y mínima de la tierra y las temperaturas globales del océano y la tierra
-•	LandAverageTemperature: temperatura media global de la tierra en grados Celsius
-•	LandAverageTemperatureUncertainty: el intervalo de confianza del 95% alrededor del promedio
-•	LandMaxTemperature: temperatura máxima promedio global de la tierra en grados Celsius
-•	LandMaxTemperatureUncertainty: el intervalo de confianza del 95% alrededor de la temperatura máxima de la tierra
-•	LandMinTemperature: temperatura mínima promedio global de la tierra en grados Celsius
-•	LandMinTemperatureUncertainty: el intervalo de confianza del 95% alrededor de la temperatura mínima de la tierra.
-•	LandAndOceanAverageTemperature: temperatura media global de la tierra y el océano en grados Celsius
-•	LandAndOceanAverageTemperatureUncertainty: el intervalo de confianza del 95% alrededor de la temperatura media mundial de la tierra y el océano.
-Otros archivos incluyen:
-•	Temperatura media global de la tierra por país ( GlobalLandTemperaturesByCountry.csv )
-•	Temperatura promedio global de la tierra por estado ( GlobalLandTemperaturesByState.csv )
-•	Temperaturas globales de la tierra por ciudad principal ( GlobalLandTemperaturesByMajorCity.csv )
-•	Temperaturas globales de la tierra por ciudad ( GlobalLandTemperaturesByCity.csv )
-Los datos brutos provienen de la página de datos de [Berkeley Earth](http://berkeleyearth.org/data/)
+## Licencia
 
+
+https://camo.githubusercontent.com/c253d2829f9392b505182d44eb60e84009fcf184/68747470733a2f2f7261772e6769746875622e636f6d2f6e61666572676f2f6d616e75616c2d6c697672652d616e696d6163616f32642f67682d70616765732f696d672f696e74726f647563616f2f6372656174697665636f6d6d6f6e735f63632d62792d73612e706e67
 
