@@ -13,8 +13,8 @@ En este cuaderno vamos a explorar parte del contenido de la **Unidad II. Integra
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alexanderariza/Analisis_nivel_CO2_-atm-sfera/blob/main/Colab/An%C3%A1lisis_nivel_CO2_en_la_atmosfera.ipynb)
 
-## Acerca de este conjunto de datos
-## Observatorio Mauna Loa:<p><left> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mauna_Loa_Solar_Observatory.jpg" width="150"/> </p></left> 
+## Acerca de este conjunto de datos:
+## 1. Dióxido de Carbono CO2 - Observatorio Mauna Loa:<p><left> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mauna_Loa_Solar_Observatory.jpg" width="150"/> </p></left> 
 El registro de dióxido de carbono del Observatorio Mauna Loa, conocido como la **“Curva de Keeling”**, es el registro ininterrumpido más largo del mundo de concentraciones de dióxido de carbono atmosférico (CO2). Los científicos realizan mediciones atmosféricas en lugares remotos para tomar muestras de aire que es representativo de un gran volumen de la atmósfera terrestre y está relativamente libre de influencias locales.
 
 ## Contenido
@@ -32,4 +32,28 @@ Los datos de dióxido de carbono fueron recopilados y publicados por la Instituc
 <i>¿Cómo han cambiado los niveles de dióxido de carbono atmosférico en los últimos sesenta años?<br> 
 ¿Cómo cambian las concentraciones de dióxido de carbono estacionalmente?<br> 
 ¿Qué crees que causa este ciclo estacional?<br> 
-¿Cuándo superarán los niveles de dióxido de carbono las 450 ppm partes por millón?<br>
+¿Cuándo superarán los niveles de dióxido de carbono las 450 ppm partes por millón?<br></i>
+  
+## 2. Datos de temperatura de la superficie terrestre
+###Explorando las temperaturas globales desde 1750:
+Existe una variedad de organizaciones que recopilan datos de tendencias climáticas. Los tres conjuntos de datos de temperatura terrestre y oceánica más citados son MLOST de NOAA, GISTEMP de NASA y HadCrut del Reino Unido.
+Par esta práctica, trabajaremos con una compilación más reciente elaborada por **Berkeley Earth** , afiliado al Laboratorio Nacional Lawrence Berkeley. El estudio de temperatura de la superficie terrestre de Berkeley combina 1.600 millones de informes de temperatura de 16 archivos preexistentes. Está muy bien empaquetado y permite dividirlo en subconjuntos interesantes (por ejemplo, por país). Publican los datos de origen y el código de las transformaciones que aplicaron. También utilizan métodos que permiten incluir observaciones meteorológicas de series de tiempo más cortas, lo que significa que se deben desechar menos observaciones.
+Dentro del conjunto de datos que veremos están:
+Temperaturas globales terrestres y oceánicas y terrestres ( GlobalTemperatures.csv ):
+•	Fecha: comienza en 1750 para la temperatura promedio de la tierra y 1850 para las temperaturas máxima y mínima de la tierra y las temperaturas globales del océano y la tierra
+•	LandAverageTemperature: temperatura media global de la tierra en grados Celsius
+•	LandAverageTemperatureUncertainty: el intervalo de confianza del 95% alrededor del promedio
+•	LandMaxTemperature: temperatura máxima promedio global de la tierra en grados Celsius
+•	LandMaxTemperatureUncertainty: el intervalo de confianza del 95% alrededor de la temperatura máxima de la tierra
+•	LandMinTemperature: temperatura mínima promedio global de la tierra en grados Celsius
+•	LandMinTemperatureUncertainty: el intervalo de confianza del 95% alrededor de la temperatura mínima de la tierra.
+•	LandAndOceanAverageTemperature: temperatura media global de la tierra y el océano en grados Celsius
+•	LandAndOceanAverageTemperatureUncertainty: el intervalo de confianza del 95% alrededor de la temperatura media mundial de la tierra y el océano.
+Otros archivos incluyen:
+•	Temperatura media global de la tierra por país ( GlobalLandTemperaturesByCountry.csv )
+•	Temperatura promedio global de la tierra por estado ( GlobalLandTemperaturesByState.csv )
+•	Temperaturas globales de la tierra por ciudad principal ( GlobalLandTemperaturesByMajorCity.csv )
+•	Temperaturas globales de la tierra por ciudad ( GlobalLandTemperaturesByCity.csv )
+Los datos brutos provienen de la página de datos de [Berkeley Earth](http://berkeleyearth.org/data/)
+
+
