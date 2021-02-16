@@ -5,7 +5,7 @@
 ***
 
 ## Cambio climático: Análisis de niveles de CO2 en la atmósfera
-En este cuaderno vamos a explorar parte del contenido de la **Unidad II. Integración de información para explicar relaciones causa y efecto.** Mediante el ananlisis de los cambios en las temperaturas medias globales, así como el aumento de las concentraciones de CO2 en la atmósfera.
+En este cuaderno vamos a explorar parte del contenido de la **Unidad II. Integración de información para explicar relaciones causa y efecto.** Mediante el análisis de los cambios en las temperaturas medias globales, así como el aumento de las concentraciones de CO2 en la atmósfera.
 
 ## ¿Como funciona?
 1. Puede [descargar](Analysis_of_CO2_levels_in_the_atmosphere.ipynb) el cuaderno de Jupyter Notebook y utilizar los recursos de computación de su PC. 
@@ -32,4 +32,4 @@ Los datos de dióxido de carbono fueron recopilados y publicados por la Instituc
 <i>¿Cómo han cambiado los niveles de dióxido de carbono atmosférico en los últimos sesenta años?<br> 
 ¿Cómo cambian las concentraciones de dióxido de carbono estacionalmente?<br> 
 ¿Qué crees que causa este ciclo estacional?<br> 
-¿Cuándo superarán los niveles de dióxido de carbono las 450 partes por millón?<br>
+¿Cuándo superarán los niveles de dióxido de carbono las 450 ppm partes por millón?<br>
