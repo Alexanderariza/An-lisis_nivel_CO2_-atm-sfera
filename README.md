@@ -1,4 +1,4 @@
-<p><center> <img src="Img/logo_heat.png" width="1000"/> </p></center>
+<p><center> <img src="https://github.com/Alexanderariza/Analysis_CO2_level_Atm/blob/main/Img/logo_heat.png" width="1000"/> </p></center>
 
 # Técnicas y Aplicaciones de Teledetección: Cambio Climático-Riesgos y Desastres
 
