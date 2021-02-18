@@ -16,6 +16,7 @@ En este cuaderno vamos a explorar parte del contenido de la **Unidad II. Integra
 ## Acerca de este conjunto de datos:
 ## 1. Dióxido de Carbono CO2 - Observatorio Mauna Loa:<p><left> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mauna_Loa_Solar_Observatory.jpg" width="600"/> </p></left> 
 El registro de dióxido de carbono del Observatorio Mauna Loa, conocido como la **“Curva de Keeling”**, es el registro ininterrumpido más largo del mundo de concentraciones de dióxido de carbono atmosférico (CO2). Los científicos realizan mediciones atmosféricas en lugares remotos para tomar muestras de aire que es representativo de un gran volumen de la atmósfera terrestre y está relativamente libre de influencias locales.
+<center> <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/1E63/production/_106197770_grafico_dioxido_de_carbono-nc.png" width="600"/> </p></center> 
 
 ## Contenido
 Este conjunto de datos incluye una observación mensual de las concentraciones atmosféricas de dióxido de carbono (o CO2) del Observatorio Mauna Loa (Hawái) a una latitud de 19,5, una longitud de -155,6 y una elevación de 3397 metros.<br> 
